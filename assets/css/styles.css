@@ -199,13 +199,13 @@ button{
 @media (min-width:1200px){
     .card__container{
         display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        width: 44%;
+        grid-template-columns: 268px 1fr;
+        width: 42%;
         border-radius:2rem;
     }
     .result_section{
         border-radius: 2rem;
-        padding: 0rem 2rem;
+        padding: 2.4rem 2rem;
     }
     .summary__section{
         border-radius: 2rem;
