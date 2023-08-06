@@ -184,8 +184,15 @@ button{
     width: 100%;
     border-radius: 4rem;
     padding: 1.2rem 0rem;
+    transition: 0.3s ease-in-out;
+    cursor: pointer;
+}
+button:hover{
+    background-color: hsla(246, 77%, 54%, 1); 
+    transform-origin: center;
 }
 
+/* Media Queries */
 @media (min-width: 600px){
     body{
         min-height: 100vh;
