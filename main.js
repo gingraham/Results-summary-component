@@ -22,5 +22,5 @@ sr.reveal('.button', {origin: 'bottom', interval:100})
 //     let score = item.score
 //    if(){
 
-//    }
+//    } 
 // })
